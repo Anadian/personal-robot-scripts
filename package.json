@@ -1,0 +1,30 @@
+{
+  "name": "personal-robot-scripts",
+  "version": "0.1.0",
+  "description": "Personal Robot.JS scripts I use for keyboard macros.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anadian/personal-robot-scripts.git"
+  },
+  "keywords": [
+    "robot",
+    "macros",
+    "personal",
+    "libre",
+    "open",
+    "free",
+    "mit"
+  ],
+  "author": "Anadian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anadian/personal-robot-scripts/issues"
+  },
+  "homepage": "https://github.com/Anadian/personal-robot-scripts#readme"
+}
