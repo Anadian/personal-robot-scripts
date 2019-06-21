@@ -4,10 +4,10 @@
   "description": "Personal Robot.JS scripts I use for keyboard macros.",
   "main": "index.js",
   "dependencies": {
-    "robotjs": "*",
-    "safe-recursive-mkdir": ">=0.1.3",
     "application-log-winston-interface": ">=1.0.2",
-    "env-paths": "*"
+    "env-paths": "*",
+    "robotjs": "github:sidharth0094/robotjs",
+    "safe-recursive-mkdir": ">=0.1.3"
   },
   "devDependencies": {},
   "scripts": {
